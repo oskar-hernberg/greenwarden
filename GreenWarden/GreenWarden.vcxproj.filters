@@ -32,5 +32,8 @@
     <ClCompile Include="GreenWarden.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
