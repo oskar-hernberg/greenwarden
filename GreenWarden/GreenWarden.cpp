@@ -3,6 +3,7 @@
 
 #include "stdafx.h"
 
+int mol = 42;
 
 int main(int argc, char* argv[])
 {
